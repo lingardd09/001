@@ -1,0 +1,11 @@
+int i=0;
+if(i>5)
+{
+  printf("bigger than 4");
+  i=i+1
+}
+else
+{
+  print("smaller than 4");
+  i=i+1
+}
